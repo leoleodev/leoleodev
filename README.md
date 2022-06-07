@@ -1,7 +1,8 @@
 ### Olá me chamo Leonardo  👋
 
 - 🔭 Atualmente estou a procura de uma vaga como desenvolvedor júnior no front-end
-- 🌱 Atualemente estou aprendendo desenvolvimento front-end
+- 🌱 Atualmente estou aprendendo desenvolvimento front-end
+- 🚀 Pretenções: Bootstrap, Ssass, ReactJs 
 - 📫 Contate-me pelo email: leonardoj.m.4@gmail.com
 
 ##
