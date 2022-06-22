@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou a procura de uma vaga como desenvolvedor júnior front-end
 - 🌱 Atualmente estou aprendendo desenvolvimento front-end
-- 🚀 Pretenções: Bootstrap, Sass, ReactJs 
+- 🚀 Pretenções: Bootstrap, ReactJs e Sass 
 - 📫 Contate-me pelo email: leonardoj.m.4@gmail.com
 
 ##
