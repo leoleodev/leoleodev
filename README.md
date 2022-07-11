@@ -1,8 +1,8 @@
 ### Olá me chamo Leonardo  👋
 
-- 🔭 Atualmente estou a procura de uma vaga como desenvolvedor júnior front-end
-- 🌱 Atualmente estou aprendendo desenvolvimento front-end
-- 🚀 Pretenções: Bootstrap, ReactJs e Sass 
+- 🔭 Atualmente estou a procura de uma vaga como desenvolvedor front-end júnior.
+- 🌱 Atualmente estou aprendendo desenvolvimento com Bootstrap.
+- 🚀 Pretenções: ReactJs e Sass. 
 - 📫 Contate-me pelo email: leonardoj.m.4@gmail.com
 
 ##
@@ -21,6 +21,7 @@
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="leo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="leo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   <img align="center" alt="leo-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
