@@ -1,8 +1,8 @@
 ### Olá me chamo Leonardo  👋
 
 - 🔭 Atualmente estou a procura de uma vaga como desenvolvedor front-end júnior.
-- 🌱 Atualmente estou aprendendo desenvolvimento com React js.
-- 🚀 Pretenções: Typescript e Sass. 
+- 🌱 Atualmente estou aprendendo desenvolvimento com React js, typescript e nextjs.
+- 🚀 Pretenções: style de components e CSS modules. 
 - 📫 Contate-me pelo email: leonardoj.m.4@gmail.com
 
 ##
